@@ -11,7 +11,7 @@ On your Java clone od this project, make sure you have the GSON dependecy implem
     implementation 'com.google.code.gson:gson:2.8.5'
 
     }
-</Code>
+
 
 ## Assets:
 * recentquotes.json
