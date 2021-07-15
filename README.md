@@ -14,15 +14,15 @@ On your Java clone od this project, make sure you have the GSON dependecy implem
 
     and import :
     import com.google.gson.Gson;
-import com.google.gson.stream.JsonReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.util.Random;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+* import com.google.gson.stream.JsonReader;
+* import java.io.FileNotFoundException;
+* import java.io.FileReader;
+* import java.util.Random;
+* import java.io.BufferedReader;
+* import java.io.IOException;
+* import java.io.InputStreamReader;
+* import java.net.HttpURLConnection;
+* import java.net.URL;
 
 ## Assets:
 * recentquotes.json
